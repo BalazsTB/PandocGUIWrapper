@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PandocGUIWrapper.Tests/PandocGUIWrapper.Tests.csproj" />
+  <Project Path="PandocGUIWrapper/PandocGUIWrapper.csproj" Id="b7be2da5-3425-4f7f-b239-729830a8710a" />
+</Solution>

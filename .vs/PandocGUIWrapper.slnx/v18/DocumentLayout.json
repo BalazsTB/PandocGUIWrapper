@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\models\\formatcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\models\\formatcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA28A707-4DF3-D9DE-9DE4-571A36E72F2C}|PandocGUIWrapper.Tests\\PandocGUIWrapper.Tests.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper.tests\\fakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA28A707-4DF3-D9DE-9DE4-571A36E72F2C}|PandocGUIWrapper.Tests\\PandocGUIWrapper.Tests.csproj|solutionrelative:pandocguiwrapper.tests\\fakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\services\\ireferencedocumentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\services\\ireferencedocumentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\services\\referencedocumentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\services\\referencedocumentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\viewmodels\\convertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\viewmodels\\convertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\views\\referencedocumentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\views\\referencedocumentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|c:\\users\\bbodi\\source\\repos\\sandbox\\pandocguiwrapper\\pandocguiwrapper\\views\\convertview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\views\\convertview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\pandocguiwrapper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE2DA5-3425-4F7F-B239-729830A8710A}|PandocGUIWrapper\\PandocGUIWrapper.csproj|solutionrelative:pandocguiwrapper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormatCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Models\\FormatCatalog.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Models\\FormatCatalog.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Models\\FormatCatalog.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\Models\\FormatCatalog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:01:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fakes.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper.Tests\\Fakes.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper.Tests\\Fakes.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper.Tests\\Fakes.cs",
+              "RelativeToolTip": "PandocGUIWrapper.Tests\\Fakes.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAxwJgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:01:24.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Models\\AppSettings.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:00:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReferenceDocumentStore.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Services\\IReferenceDocumentStore.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Services\\IReferenceDocumentStore.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Services\\IReferenceDocumentStore.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\Services\\IReferenceDocumentStore.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:00:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferenceDocumentStore.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Services\\ReferenceDocumentStore.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Services\\ReferenceDocumentStore.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Services\\ReferenceDocumentStore.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\Services\\ReferenceDocumentStore.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:59:56.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\ViewModels\\ConvertViewModel.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\ViewModels\\ConvertViewModel.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\ViewModels\\ConvertViewModel.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\ViewModels\\ConvertViewModel.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:59:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReferenceDocumentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Views\\ReferenceDocumentsView.xaml",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Views\\ReferenceDocumentsView.xaml",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Views\\ReferenceDocumentsView.xaml",
+              "RelativeToolTip": "PandocGUIWrapper\\Views\\ReferenceDocumentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-15T10:58:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertView.xaml",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Views\\ConvertView.xaml",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\Views\\ConvertView.xaml",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\Views\\ConvertView.xaml*",
+              "RelativeToolTip": "PandocGUIWrapper\\Views\\ConvertView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-15T10:25:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\MainWindow.xaml",
+              "RelativeToolTip": "PandocGUIWrapper\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T08:39:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PandocGUIWrapper\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bbodi\\source\\repos\\Sandbox\\PandocGUIWrapper\\PandocGUIWrapper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PandocGUIWrapper\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T08:39:13.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

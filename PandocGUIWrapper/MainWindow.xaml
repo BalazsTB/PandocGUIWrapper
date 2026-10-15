@@ -1,0 +1,27 @@
+﻿<Window
+      x:Class="PandocGUIWrapper.MainWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:views="clr-namespace:PandocGUIWrapper.Views"
+      xmlns:vm="clr-namespace:PandocGUIWrapper.ViewModels"
+      Title="Pandoc Converter"
+      Width="640"
+      Height="360"
+      MinWidth="480"
+      MinHeight="340"
+      d:DataContext="{d:DesignInstance Type=vm:MainViewModel}"
+      WindowStartupLocation="CenterScreen"
+      mc:Ignorable="d">
+
+      <!--  Each tab gets its own child ViewModel from MainViewModel.  -->
+      <TabControl Margin="8">
+            <TabItem Header="Convert">
+                  <views:ConvertView DataContext="{Binding Convert}" />
+            </TabItem>
+            <TabItem Header="Reference documents">
+                  <views:ReferenceDocumentsView DataContext="{Binding ReferenceDocuments}" />
+            </TabItem>
+      </TabControl>
+</Window>

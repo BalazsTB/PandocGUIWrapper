@@ -1,0 +1,62 @@
+<UserControl
+      x:Class="PandocGUIWrapper.Views.ReferenceDocumentsView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:vm="clr-namespace:PandocGUIWrapper.ViewModels"
+      d:DataContext="{d:DesignInstance Type=vm:ReferenceDocumentsViewModel}"
+      d:DesignHeight="260"
+      d:DesignWidth="600"
+      mc:Ignorable="d">
+
+      <!--  The Reference documents tab: one row per format, each with Browse and Clear buttons.  -->
+      <DockPanel Margin="12">
+            <TextBlock
+                  Margin="0,0,0,8"
+                  DockPanel.Dock="Top"
+                  Foreground="Gray"
+                  Text="A reference document sets the styles, page layout, headers and footers of the new file. It is used automatically when you convert to that format."
+                  TextWrapping="Wrap" />
+
+            <ItemsControl Grid.IsSharedSizeScope="True" ItemsSource="{Binding Items}">
+                  <ItemsControl.ItemTemplate>
+                        <DataTemplate DataType="{x:Type vm:ReferenceDocumentItemViewModel}">
+                              <Grid Margin="0,4">
+                                    <Grid.ColumnDefinitions>
+                                          <ColumnDefinition Width="Auto" SharedSizeGroup="FormatName" />
+                                          <ColumnDefinition Width="*" />
+                                          <ColumnDefinition Width="Auto" />
+                                          <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <Label
+                                          Grid.Column="0"
+                                          VerticalAlignment="Center"
+                                          Content="{Binding DisplayName}" />
+                                    <TextBox
+                                          Grid.Column="1"
+                                          Margin="8,0"
+                                          Padding="2"
+                                          VerticalContentAlignment="Center"
+                                          AutomationProperties.Name="{Binding DisplayName}"
+                                          IsReadOnly="True"
+                                          Text="{Binding Path, Mode=OneWay, TargetNullValue='None (pandoc default)'}"
+                                          ToolTip="{Binding Path}" />
+                                    <Button
+                                          Grid.Column="2"
+                                          Width="88"
+                                          Command="{Binding BrowseCommand}"
+                                          Content="Browse…" />
+                                    <Button
+                                          Grid.Column="3"
+                                          Width="64"
+                                          Margin="8,0,0,0"
+                                          Command="{Binding ClearCommand}"
+                                          Content="Clear" />
+                              </Grid>
+                        </DataTemplate>
+                  </ItemsControl.ItemTemplate>
+            </ItemsControl>
+      </DockPanel>
+</UserControl>
